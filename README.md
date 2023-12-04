@@ -3,7 +3,7 @@ Practice and perfect your speech skills with Speakrly, an online app that improv
 
 On VSCode, with the help of GitHub, Router, and React, we were able to develop this beneficial program. Through its development, we used Cohere Rerank and OpenAI Whisper with Python for the speech recognition aspects and computer vision for the eye contact and gesture recognition areas.
 
-Submission to Hack the North 2023
+Submission to Hack the North 2023 | [Devpost](https://devpost.com/software/speakrly)
 
 ## Features
 
