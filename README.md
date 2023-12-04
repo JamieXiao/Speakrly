@@ -1,4 +1,4 @@
-# speechrly
+# Speakrly
 Practice and perfect your speech skills with Speakrly, an online app that improves the user's presentation skills. Through the many frameworks and technologies, it is able to analyze the speaker's presentation, in respect of its context, and the user's hand and eye movement. Through the examination, it is able to adequately assess the user based on these three areas and further produce feedback if needed.
 
 On VSCode, with the help of GitHub, Router, and React, we were able to develop this beneficial program. Through its development, we used Cohere Rerank and OpenAI Whisper with Python for the speech recognition aspects and computer vision for the eye contact and gesture recognition areas.
